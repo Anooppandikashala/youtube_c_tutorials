@@ -1,24 +1,17 @@
 #include<stdio.h>
-
 //to find the toper of the class
-
 void main()
 {
     int mark[10]= {50, 60 ,89 ,68, 78, 59, 46 ,45 ,43, 58};
-
-
-
     // printf("Enter the 10 marks :");
     // for(int i=0;i<10;i++)
     // {
     //     scanf("%d",&mark[i]);
     // }
-
     for(int i=0;i<10;i++)
     {
         printf("%d ",mark[i]);
     }
-
     // printf("Enter the Searching element :");
 
     // int searchElement;
@@ -58,15 +51,6 @@ void main()
     {
         printf("%d ",mark[i]);
     }
-
-
     printf("\nToper's mark : %d",mark[9]);
-
-
-    
-
-
-
-    
 
 }
