@@ -39,6 +39,6 @@ void main()
 
   int val = n_fact / n_r_fact;
 
-  printf("\n Npr Value %d: ",val);
+  printf("\n Value %d: ",val);
 
 }
